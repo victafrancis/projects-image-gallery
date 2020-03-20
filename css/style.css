@@ -1,3 +1,8 @@
 p#txt {
     text-decoration: none;
 }
+
+.imagepreview {
+    height: 1000px;
+    width: 1000px;
+}
